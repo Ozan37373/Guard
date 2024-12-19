@@ -1,10 +1,10 @@
 {
-  "OwnerID":"", 
-  "Prefix":"", 
-  "Token":"", 
-  "Status": "",
-  "guildID":"", 
-  "logChannelID":"", 
+  "OwnerID":"1292888185076060272", 
+  "Prefix":".", 
+  "Token":"MTMwODcxNTc0Njg5Mjk3NjE0OQ.Gn5FkM.jMlA9IhVcxHIo036UgE52wwisdjDpExD0-vc-E", 
+  "Status": "nexa plus test",
+  "guildID":"1309858471151271946", 
+  "logChannelID":"1319411883182391397", 
   "channelProtection":true,
   "roleProtection":true,
   "botProtection":true,
@@ -13,6 +13,6 @@
   "serverProtection":true,
   "rightClickProtection":true, 
   "whitelist":["", "", ""], 
-  "boosterRole":"", 
-  "jailRole":"" 
+  "boosterRole":"1309858471184826490", 
+  "jailRole":"1319412323877785661" 
 }
